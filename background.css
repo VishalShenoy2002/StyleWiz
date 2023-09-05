@@ -1,0 +1,25 @@
+.purple-background{
+    
+    background:  linear-gradient(to bottom right,#ad5389,#3c1053);
+    background-attachment: fixed;
+}
+.orange-background{
+    
+    background:  linear-gradient(to bottom right,#fc4a1a,#f7b733);
+    background-attachment: fixed;
+}
+.blue-background{
+    
+    background:  linear-gradient(to bottom right,#24C6DC,#514A9D);
+    background-attachment: fixed;
+}
+.green-background{
+    
+    background:  linear-gradient(to bottom right,#11998e,#38ef7d);
+    background-attachment: fixed;
+}
+.red-background{
+    
+    background:  linear-gradient(to bottom right,#ED213A,#93291E);
+    background-attachment: fixed;
+}
