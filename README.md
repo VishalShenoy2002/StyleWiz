@@ -1,1 +1,2 @@
-<h1><u>StyleWiz</u></h1>
+<h1>StyleWiz</h1>
+A CSS Framework
