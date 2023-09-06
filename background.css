@@ -15,7 +15,27 @@
 }
 .green-background{
     
-    background:  linear-gradient(to bottom right,#11998e,#38ef7d);
+    background:  linear-gradient(to top right,#9ef01a,#008000);
+    background-attachment: fixed;
+}
+.pink-background{
+    
+    background:  linear-gradient(to top right,#ff85a1,#ff0a54);
+    background-attachment: fixed;
+}
+.turquoise-background{
+    
+    background: linear-gradient(to top right,#9ceaef,#07beb8);
+    background-attachment: fixed;
+}
+.yellow-background{
+    
+    background: linear-gradient(to top right,#fcf300,#ffc600);
+    background-attachment: fixed;
+}
+.gold-background{
+    
+    background:  linear-gradient(to top right,#ffe169,#a47e1b);
     background-attachment: fixed;
 }
 .red-background{
