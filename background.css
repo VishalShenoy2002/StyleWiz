@@ -43,3 +43,8 @@
     background:  linear-gradient(to bottom right,#ED213A,#93291E);
     background-attachment: fixed;
 }
+.black-background{
+    
+    background:  linear-gradient(to bottom right,#495057,#081c15);
+    background-attachment: fixed;
+}
