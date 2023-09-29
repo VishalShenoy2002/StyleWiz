@@ -22,3 +22,13 @@
 .regular,.plain{
     font-family: 'Ubuntu Condensed', sans-serif;
 }
+
+.small-font{
+    font-size: 16px;
+}
+.medium-font{
+    font-size: 22px;
+}
+.large-font{
+    font-size: 28px;
+}
