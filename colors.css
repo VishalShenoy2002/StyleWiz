@@ -2,37 +2,29 @@
     background-color: #4077b4;
 }
 
-.blue:hover{
-    background-color: #4077b475;
-
-}
 .purple{
     background-color: #632766;
     
 }
 
-.purple:hover{
-    background-color: #63276675;
-    
-}
 .green{
     background-color: #008000;
 }
 
-.green:hover{
-    background-color: #00800075;
-}
 
 .gold{
     background-color: #a47e1b;
 }
-.gold:hover{
-    background-color: #a47e1b75;
-}
+
 
 .red{
     background-color: #ED213A;
 }
-.red{
-    background-color: #ED213A75;
+
+.white{
+    background-color: #ffffff;
+}
+
+.yellow{
+    background-color: #ffc600;
 }
