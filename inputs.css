@@ -1,0 +1,47 @@
+.long-input{
+    width: 80%;
+    padding: 8px;
+    outline: none;
+    border: 0px;
+    border-radius: 10px;
+    
+    transition: all ease-in-out .3s;
+    background-color: white;
+}
+
+.short-input{
+    width: 50%;
+    padding: 8px;
+    outline: none;
+    border: 0px;
+    border-radius: 10px;
+    
+    transition: all ease-in-out .3s;
+    background-color: white;
+}
+
+.rounded-long-input{
+    width: 80%;
+    padding: 8px;
+    outline: none;
+    border: 0px;
+    border-radius: 25px;
+    
+    transition: all ease-in-out .3s;
+    background-color: white;
+}
+.rounded-short-input{
+    width: 50%;
+    padding: 8px;
+    outline: none;
+    border: 0px;
+    border-radius: 25px;
+    
+    transition: all ease-in-out .3s;
+    background-color: white;
+}
+
+.long-input:focus,.short-input:focus,.rounded-long-input:focus,.rounded-short-input:focus{
+    
+    border-bottom: 5px solid black;
+}
