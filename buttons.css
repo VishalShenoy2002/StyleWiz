@@ -23,3 +23,8 @@
     font-family: 'Bebas Neue', sans-serif;
 
 }
+
+.button a, .rounded-button a{
+    color: #ffffff;
+    text-decoration: none;
+}
