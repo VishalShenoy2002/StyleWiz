@@ -55,3 +55,22 @@
     transform: translate(0,-10px);
     background-color: #dedede;
 }
+
+.two-column-card-container{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(2,1fr);
+    /* max-width: 50%; */
+}
+.three-column-card-container{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(3,1fr);
+    /* max-width: 50%; */
+}
+.four-column-card-container{
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(4,1fr);
+    /* max-width: 50%; */
+}
