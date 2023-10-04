@@ -61,7 +61,7 @@
     gap: 15px;
     grid-template-columns: repeat(2,1fr);
     place-content: center;
-    place-items: center;
+    /* place-items: center; */
     /* max-width: 50%; */
 }
 .three-column-card-container{
@@ -69,7 +69,7 @@
     gap: 15px;
     grid-template-columns: repeat(3,1fr);
     place-content: center;
-    place-items: center;
+    /* place-items: center; */
     /* max-width: 50%; */
 }
 .four-column-card-container{
@@ -77,6 +77,6 @@
     gap: 15px;
     grid-template-columns: repeat(4,1fr);
     place-content: center;
-    place-items: center;
+    /* place-items: center; */
     /* max-width: 50%; */
 }
