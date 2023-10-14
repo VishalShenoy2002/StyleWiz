@@ -105,8 +105,9 @@
     
     min-width: 40%;
     max-height: 50%;
-
+    
     width: 40%;
+    overflow: scroll;
 }
 
 .info-card-title{
@@ -114,7 +115,7 @@
 
 }
 .info-card-content{
-    overflow: scroll;
     text-align: left;
+    background-color: transparent;
 }
 
