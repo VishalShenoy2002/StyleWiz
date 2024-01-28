@@ -34,11 +34,11 @@
     flex-grow: 500;
     /* flex-shrink: 10000; */
 }
-.width-expandable-card .card-content:hover{
+.width-expandable-card:hover .card-content{
     opacity: 1;
 }
 
-.width-expandable-card .card-title:hover{
+.width-expandable-card:hover .card-title{
     display: inline;
 }
 
