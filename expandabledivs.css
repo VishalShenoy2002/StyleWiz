@@ -1,9 +1,11 @@
 .expandable-div{
     display: flex;
+    flex-direction: row;
+    flex-flow: row;
     gap: 2rem;
 }
 
-.expandable-card{
+.width-expandable-card{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -20,8 +22,8 @@
     transition: flex-grow 1s 0.5s ease, flex-shrink 1s ease;
 }
 
-.expandable-card:hover{
-    flex-grow: 10000;
-    flex-shrink: 10000;
+.width-expandable-card:hover{
+    flex-grow: 500;
+    /* flex-shrink: 10000; */
 }
 
