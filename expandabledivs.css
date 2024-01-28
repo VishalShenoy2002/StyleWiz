@@ -1,0 +1,27 @@
+.expandable-div{
+    display: flex;
+    gap: 2rem;
+}
+
+.expandable-card{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+    align-items: center;
+    justify-content: center;
+
+    /* width: 20%; */
+    padding: 2%;
+    flex-grow: 0;
+
+    background-color: #ffffff;
+    border-radius: 10px;
+    transition: flex-grow 1s 0.5s ease, flex-shrink 1s ease;
+}
+
+.expandable-card:hover{
+    flex-grow: 10000;
+    flex-shrink: 10000;
+}
+
