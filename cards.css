@@ -119,3 +119,8 @@
     background-color: transparent;
 }
 
+.card-list{
+    display: flex;
+    gap: 1rem;
+}
+
