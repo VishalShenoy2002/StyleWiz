@@ -23,11 +23,14 @@
     transition: flex-grow 1s 0.5s ease, flex-shrink 1s ease;
 }
 
-.width-expandable-card .card-title span{
-    display: block;
+.width-expandable-card .card-title{
+
+    transform: scale(0.5);
+    transition: 1s ease-in-out;
 }
 .width-expandable-card .card-content{
     opacity: 0;
+    transition: 1s ease-in-out;
 }
 
 .width-expandable-card:hover{
@@ -39,7 +42,7 @@
 }
 
 .width-expandable-card:hover .card-title{
-    display: inline;
+    transform: scale(1);
 }
 
 
